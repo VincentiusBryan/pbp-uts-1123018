@@ -55,7 +55,7 @@ export default function DetailBuku() {
 
             <button
                 className="btn btn-secondary"
-                onClick={() => navigate("/")}
+                onClick={() => navigate("/AmbilBuku")}
             >
                 Kembali
             </button>
